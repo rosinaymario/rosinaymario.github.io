@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400);
+
+section {
+  background-color: white; 
+}
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Kaushan Script', handwriting;
+  padding: 2rem;
+}
+
+.flag {
+  height: 32px;
+
+}
+
+
+
+
+
