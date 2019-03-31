@@ -22,7 +22,7 @@ body {
 }
 .display-1 {
   font-family: 'Kaushan Script', handwriting;
-  font-size: 4.25rem;
+  font-size: 3.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
@@ -1715,9 +1715,25 @@ body {
 }
 
 .cid-nosotros {
-  background-image: url("../../../assets/images/pivón.jpg");
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 .cid-nosotros .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+
+.cid-diaB {
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+}
+.cid-diaB .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+
+.cid-lista {
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+}
+.cid-lista .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
 }
@@ -1967,7 +1983,7 @@ body {
   color: #ffffff;
 }
 .cid-qwTFJw1Ewk .countdown-cont {
-  background: linear-gradient(45deg, #8072c3, #ff7f9f);
+background: linear-gradient(90deg, rgba(1,21,28,1) 0%, rgba(33,65,52,1) 40%, rgba(228,222,226,1) 100%);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
