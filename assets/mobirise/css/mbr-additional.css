@@ -1708,6 +1708,8 @@ body {
 }
 .cid-principal {
   background-image: url("../../../assets/images/IMG_3185.jpg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
 }
 .cid-principal .mbr-section-subtitle {
   font-style: italic;
@@ -1716,6 +1718,8 @@ body {
 
 .cid-nosotros {
   background-image: url("../../../assets/images/IMG_3145.jpg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
 }
 .cid-nosotros .mbr-section-subtitle {
   font-style: italic;
@@ -1724,6 +1728,8 @@ body {
 
 .cid-diaB {
   background-image: url("../../../assets/images/IMG_2204.jpg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
 }
 .cid-diaB .mbr-section-subtitle {
   font-style: italic;
@@ -1732,6 +1738,8 @@ body {
 
 .cid-lista {
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
 }
 .cid-lista .mbr-section-subtitle {
   font-style: italic;
