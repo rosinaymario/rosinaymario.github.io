@@ -2325,3 +2325,308 @@ background: linear-gradient(90deg, rgba(1,21,28,1) 0%, rgba(33,65,52,1) 40%, rgb
 .cid-qwUcdm4XA3 .media-container-row .mbr-text {
   color: #232323;
 }
+
+/*LISTA DE BODAS*/
+.cid-tahsafari {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/safari-tahiti.jpg");
+  border-bottom: 30px solid white;
+}
+@media (min-width: 992px) {
+  .cid-tahsafari .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tahsafari .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tahsafari .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tahsafari H1 {
+  color: #232323;
+}
+.cid-tahsafari .mbr-text,
+.cid-tahsafari .mbr-section-btn {
+  color: #232323;
+}
+.cid-tahsafari H2 {
+  color: #232323;
+}
+
+.cid-moo-lagoon {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/moorea-lagoon.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-moo-lagoon .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-moo-lagoon .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-moo-lagoon .mbr-text {
+    text-align: center;
+  }
+}
+.cid-moo-lagoon H1 {
+  color: #232323;
+}
+.cid-moo-lagoon .mbr-text,
+.cid-moo-lagoon .mbr-section-btn {
+  color: #232323;
+}
+.cid-moo-lagoon H2 {
+  color: #232323;
+}
+
+.cid-moo-dol {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/moorea-dolphin-center.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-moo-dol .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-moo-dol .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-moo-dol .mbr-text {
+    text-align: center;
+  }
+}
+.cid-moo-dol H1 {
+  color: #232323;
+}
+.cid-moo-dol .mbr-text,
+.cid-moo-dol .mbr-section-btn {
+  color: #232323;
+}
+.cid-moo-dol H2 {
+  color: #232323;
+}
+
+
+.cid-moo-tiki {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/moorea-tiki.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-moo-tiki .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-moo-tiki .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-moo-tiki .mbr-text {
+    text-align: center;
+  }
+}
+.cid-moo-tiki H1 {
+  color: #232323;
+}
+.cid-moo-tiki .mbr-text,
+.cid-moo-tiki .mbr-section-btn {
+  color: #232323;
+}
+.cid-moo-tiki H2 {
+  color: #232323;
+}
+
+
+.cid-bora-saf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/borabora-safari.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-bora-saf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-bora-saf .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-bora-saf .mbr-text {
+    text-align: center;
+  }
+}
+.cid-bora-saf H1 {
+  color: #232323;
+}
+.cid-bora-saf .mbr-text,
+.cid-bora-saf .mbr-section-btn {
+  color: #232323;
+}
+.cid-bora-saf H2 {
+  color: #232323;
+}
+
+
+.cid-bora-lag {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/borabora-lagoonarium.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-bora-lag .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-bora-lag .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-bora-lag .mbr-text {
+    text-align: center;
+  }
+}
+.cid-bora-lag H1 {
+  color: #232323;
+}
+.cid-bora-lag .mbr-text,
+.cid-bora-lag .mbr-section-btn {
+  color: #232323;
+}
+.cid-bora-lag H2 {
+  color: #232323;
+}
+
+
+.cid-bora-hot {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/borabora-hotel.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-bora-hot .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-bora-hot .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-bora-hot .mbr-text {
+    text-align: center;
+  }
+}
+.cid-bora-hot H1 {
+  color: #232323;
+}
+.cid-bora-hot .mbr-text,
+.cid-bora-hot .mbr-section-btn {
+  color: #232323;
+}
+.cid-bora-hot H2 {
+  color: #232323;
+}
+
+
+.cid-bora-para {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/borabora-parasailing.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-bora-para .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-bora-para .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-bora-para .mbr-text {
+    text-align: center;
+  }
+}
+.cid-bora-para H1 {
+  color: #232323;
+}
+.cid-bora-para .mbr-text,
+.cid-bora-para .mbr-section-btn {
+  color: #232323;
+}
+.cid-bora-para H2 {
+  color: #232323;
+}
+
+
+
+
+.cid-thermo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/thermomix.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-thermo .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-thermo .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-thermo .mbr-text {
+    text-align: center;
+  }
+}
+.cid-thermo H1 {
+  color: #232323;
+}
+.cid-thermo .mbr-text,
+.cid-thermo .mbr-section-btn {
+  color: #232323;
+}
+.cid-thermo H2 {
+  color: #232323;
+}
