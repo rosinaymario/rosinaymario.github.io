@@ -1746,6 +1746,16 @@ body {
   letter-spacing: 1rem;
 }
 
+.cid-utilidades {
+  background-image: url("../../../assets/images/Rulos.jpg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
+}
+.cid-utilidades .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+
 .cid-qwTXGaUGDn {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2629,4 +2639,12 @@ background: linear-gradient(90deg, rgba(1,21,28,1) 0%, rgba(33,65,52,1) 40%, rgb
 }
 .cid-thermo H2 {
   color: #232323;
+}
+
+.alojamiento {
+  border-left: 3px solid rgba(33,65,52,1);
+}
+
+.idioma {
+  max-height: 1rem;
 }
