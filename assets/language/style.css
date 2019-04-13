@@ -9,7 +9,7 @@ body {
 
 h1 {
   font-family: 'Kaushan Script', handwriting;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .flag {
@@ -17,7 +17,8 @@ h1 {
 
 }
 
-
-
+.rounded{
+	border-bottom: 3px solid black;
+}
 
 
