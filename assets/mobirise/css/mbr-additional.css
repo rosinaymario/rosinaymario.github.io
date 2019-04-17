@@ -2641,6 +2641,39 @@ background: linear-gradient(90deg, rgba(1,21,28,1) 0%, rgba(33,65,52,1) 40%, rgb
   color: #232323;
 }
 
+.cid-cabecero {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/cabecero.jpg");
+  border-bottom: 30px solid white;
+}
+
+@media (min-width: 992px) {
+  .cid-cabecero .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-cabecero .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-cabecero .mbr-text {
+    text-align: center;
+  }
+}
+.cid-cabecero H1 {
+  color: #232323;
+}
+.cid-cabecero .mbr-text,
+.cid-cabecero .mbr-section-btn {
+  color: #232323;
+}
+.cid-cabecero H2 {
+  color: #232323;
+}
+
 .alojamiento {
   border-left: 3px solid rgba(33,65,52,1);
 }
