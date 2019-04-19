@@ -1756,6 +1756,16 @@ body {
   letter-spacing: 1rem;
 }
 
+.cid-fotos {
+  background-image: url("../../../assets/images/fotografos.jpeg");
+  background-size: 100%;
+  background-color: rgba(33,65,52,1);
+}
+.cid-fotos .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+
 .cid-qwTXGaUGDn {
   padding-top: 90px;
   padding-bottom: 90px;
